@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "siyana",
+      "email": "siyana@gmail.com",
+      "password": "1234567890",
+      "id": "en8OQM6hu8k"
+    },
+    {
+      "name": "fathima",
+      "email": "fathima@gmail.com",
+      "password": "fathima1234",
+      "id": "2aHJM2QsYJg"
+    },
+    {
+      "name": "thansiha",
+      "email": "thansiha@gmail.com",
+      "password": "thansiha123",
+      "id": "xHNobXEehqY"
+    },
+    {
+      "name": "shaza",
+      "email": "shaza@gmail.com",
+      "password": "shaza123",
+      "id": "bIHNR22dKHs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
